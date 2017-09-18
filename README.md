@@ -1,6 +1,6 @@
 # AP Coursework 2017
 ### University Project
-Coursework submission for the class *Advanced Programming*, undertaken as part of my masters degree *MSc Software Developmet* from [University of Glasgow](http://www.gla.ac.uk/postgraduate/taught/softwaredevelopment/) in Feb 2017.
+Coursework submission for the class *Advanced Programming*, undertaken as part of my masters degree *MSc Software Development* from [University of Glasgow](http://www.gla.ac.uk/postgraduate/taught/softwaredevelopment/) in Feb 2017.
 
 The task was to design and implement a 2 dimensional [cellular automata](https://en.wikipedia.org/wiki/Cellular_automaton) system in the form of a 'grid world' populated by two species of 'creature'.
 
