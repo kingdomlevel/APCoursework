@@ -1,3 +1,4 @@
-*.class
+build/*.class
 UML.pdf
 APCourseworkTask2017.pdf
+niallMorris_APCoursework2017.pdf
